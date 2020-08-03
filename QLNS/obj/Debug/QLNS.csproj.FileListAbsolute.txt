@@ -1,0 +1,123 @@
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\QLNS.exe
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\QLNS.pdb
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.csprojResolveAssemblyReference.cache
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmMain.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\devcomponents.dotnetbar2.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmTTNhanVien.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmDangNhap.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmDoiMatKhau.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmLuongNV.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBHXH.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmSapXep.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmTimKiem.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmNguoiDung.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmGioiThieu.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmThietLap.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmDangKy.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmThueTNCN.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\System.Net.Http.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\System.Net.Http.xml
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBaoCaoTTNV.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBaoCao.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBaoCaoLuong.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBaoCaoBHXH.resources
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\FlashControlV71.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\phuon\Desktop\QLNS\QLNS\QLNS\bin\Debug\stdole.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\QLNS.exe.config
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.exe
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.pdb
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\QLNS.exe
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\QLNS.pdb
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.Shared.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\devcomponents.dotnetbar2.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\FlashControlV71.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\System.Net.Http.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\ShockwaveFlashObjects.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\stdole.dll
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\devcomponents.dotnetbar2.xml
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\bin\Debug\System.Net.Http.xml
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.csprojResolveAssemblyReference.cache
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBaoCao.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBaoCaoBHXH.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBaoCaoLuong.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBaoCaoTTNV.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBHXH.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmDangKy.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmDangNhap.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmDoiMatKhau.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmGioiThieu.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmNguoiDung.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmSapXep.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmLuongNV.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmMain.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmThietLap.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmTimKiem.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmTTNhanVien.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmThueTNCN.resources
+E:\HK 5\ĐỒ Án 1\QLNS\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\bin\Debug\System.Net.Http.dll
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\bin\Debug\devcomponents.dotnetbar2.xml
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\bin\Debug\System.Net.Http.xml
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.csprojResolveAssemblyReference.cache
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBaoCao.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBaoCaoBHXH.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBaoCaoLuong.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBaoCaoTTNV.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmBHXH.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmDangKy.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmDangNhap.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmDoiMatKhau.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmGioiThieu.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmNguoiDung.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmSapXep.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmLuongNV.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmMain.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmThietLap.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmTimKiem.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmTTNhanVien.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.frmThueTNCN.resources
+D:\BàiTap\NET\qlns\QLNS\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.Cache
